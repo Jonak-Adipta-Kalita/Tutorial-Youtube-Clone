@@ -1,6 +1,6 @@
 # JAK-Youtube-Clone
 
-Project Console: https://console.firebase.google.com/project/jak--clone-9fad2/overview
+Project Console: https://console.firebase.google.com/project/jak--clone-9fad2/overview<br/>
 Hosting URL: https://jak--clone-9fad2.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
