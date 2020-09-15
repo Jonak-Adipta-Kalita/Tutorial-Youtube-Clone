@@ -1,5 +1,8 @@
 # JAK-Youtube-Clone
 
+Download Material UI Core: npm install @material-ui/core
+Download Material UI Icons: npm install @material-ui/icons
+
 Project Console: https://console.firebase.google.com/project/jak--clone-9fad2/overview<br/>
 Hosting URL: https://jak--clone-9fad2.web.app
 
