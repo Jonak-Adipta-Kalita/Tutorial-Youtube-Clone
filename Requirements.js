@@ -6,5 +6,5 @@
 //es7 snippets
 //Sticky Navbar
 //Flex
-//Router
+//React Router
 //Portfolio
