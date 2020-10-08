@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JAK-Youtube-Clone/static/css/main.ea8b3aff.chunk.css",
+    "main.js": "/JAK-Youtube-Clone/static/js/main.729c3cfa.chunk.js",
+    "main.js.map": "/JAK-Youtube-Clone/static/js/main.729c3cfa.chunk.js.map",
+    "runtime-main.js": "/JAK-Youtube-Clone/static/js/runtime-main.faf9b804.js",
+    "runtime-main.js.map": "/JAK-Youtube-Clone/static/js/runtime-main.faf9b804.js.map",
+    "static/js/2.b44db0e8.chunk.js": "/JAK-Youtube-Clone/static/js/2.b44db0e8.chunk.js",
+    "static/js/2.b44db0e8.chunk.js.map": "/JAK-Youtube-Clone/static/js/2.b44db0e8.chunk.js.map",
+    "index.html": "/JAK-Youtube-Clone/index.html",
+    "precache-manifest.c63d0e8a38354ae1b10df0579a2c9bd6.js": "/JAK-Youtube-Clone/precache-manifest.c63d0e8a38354ae1b10df0579a2c9bd6.js",
+    "service-worker.js": "/JAK-Youtube-Clone/service-worker.js",
+    "static/css/main.ea8b3aff.chunk.css.map": "/JAK-Youtube-Clone/static/css/main.ea8b3aff.chunk.css.map",
+    "static/js/2.b44db0e8.chunk.js.LICENSE.txt": "/JAK-Youtube-Clone/static/js/2.b44db0e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faf9b804.js",
+    "static/js/2.b44db0e8.chunk.js",
+    "static/css/main.ea8b3aff.chunk.css",
+    "static/js/main.729c3cfa.chunk.js"
+  ]
+}
