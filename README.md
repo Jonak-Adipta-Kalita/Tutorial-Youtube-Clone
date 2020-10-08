@@ -4,8 +4,8 @@ Download React Router: npm install react-router-dom<br/>
 Download Material UI Core: npm install @material-ui/core<br/>
 Download Material UI Icons: npm install @material-ui/icons
 
-Project Console: https://console.firebase.google.com/u/0/project/jak--clone-46395/overview<br/>
-Hosting URL: 
+Project Console: https://console.firebase.google.com/project/jak--clone-46395/overview <br/>
+Hosting URL: https://jak--clone-46395.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
