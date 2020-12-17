@@ -1,10 +1,10 @@
 # JAK-Youtube-Clone
 
-Download React Router: npm install react-router-dom
+Download React Router: `npm install react-router-dom`
 <br/>
-Download Material UI Core: npm install @material-ui/core
+Download Material UI Core: npm install `@material-ui/core`
 <br/>
-Download Material UI Icons: npm install @material-ui/icons
+Download Material UI Icons: npm install `@material-ui/icons`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
