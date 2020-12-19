@@ -3,7 +3,6 @@ import TuneOutlinedIcon from '@material-ui/icons/TuneOutlined';
 import './SearchPage.css';
 import ChannelRow from './ChannelRow';
 import VideoRow from './VideoRow'
-import Avatar from '@material-ui/core/Avatar';
 
 function SearchPage () {
 	return (
